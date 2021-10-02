@@ -2,7 +2,7 @@
 I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href="https://www.youtube.com/c/WebJourneybd">Youtube</a>. I spend most of the time coding client projects or creating tutorials.
 
 
-<h3>☕  Connect with me!<h3>
+☕ Connect with me!
 <p>
   <a href="https://www.facebook.com/profile.php?id=100006948045273" rel="nofollow"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook Badge" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
   </a>
@@ -13,18 +13,18 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
   <a href="mailto:nazmuldiu8@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Mail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
-<p>♥️  I enjoy learning and sharing knowledge</p>
+♥️ I enjoy learning and sharing knowledge
 
-💻  Most used line of code console.log("hello world")
+💻  Most used line of code console.log("hello world")
 
-🤔  I’m looking for people who can help me with Outstanding Video ideas and executions.
+🤔  I’m looking for people who can help me with Outstanding Video ideas and executions.
 
-📧  How to reach me: nazmuldiu8@gmail.com.
+📧  How to reach me: nazmuldiu8@gmail.com.
 
-🔭 I’m currently working on PHP Laravel.
+🔭  I’m currently working on PHP Laravel.
 
 
-<h3>⚡ Things I code with</h3>
+⚡ Technology I code with
 
 <!--
 **nazmulcse11/nazmulcse11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
