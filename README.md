@@ -70,6 +70,30 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
   </a> 
 </p>
 
+<h3>🔭 My Projects</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Projects</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://ecommerce-bd.xyz" rel="nofollow">Ecommerce Website</a></td>
+      <td>Online Ecommerce Platform</td>
+    </tr>
+    <tr>
+      <td><a href="https://web-journey/inventory" rel="nofollow">Inventory Web Application</a></td>
+      <td>Create Orders and Control Products</td>
+    </tr>
+    <tr>
+      <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
+      <td>Crypto Currency</td>
+    </tr>
+  </tbody>
+</table>
+
 <!--
 **nazmulcse11/nazmulcse11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
