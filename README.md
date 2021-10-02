@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href="https://www.youtube.com/c/WebJourneybd">Youtube</a>. I spend most of the time coding client projects or creating tutorials.
+<hr/>
 
 ☕  Connect with me!
 <p>
