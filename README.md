@@ -1,4 +1,4 @@
-<h3>Hi there 👋</h3>
+<h2>Hi there 👋</h2>
 I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href="https://www.youtube.com/c/WebJourneybd">Youtube</a>. I spend most of the time coding client projects or creating tutorials.
 
 
@@ -22,6 +22,9 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
 📧  How to reach me: nazmuldiu8@gmail.com.
 
 🔭 I’m currently working on PHP Laravel.
+
+
+<h2>⚡ Things I code with</h2>
 
 <!--
 **nazmulcse11/nazmulcse11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
