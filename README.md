@@ -20,6 +20,8 @@ I'm Nazmul, a Full Stack Web Application Developer and Content Creator on <a hre
 
 📧  How to reach me: nazmuldiu8@gmail.com.
 
+🔭 I’m currently working on PHP Laravel.
+
 <!--
 **nazmulcse11/nazmulcse11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
