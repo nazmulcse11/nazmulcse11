@@ -13,8 +13,11 @@ I'm Nazmul, a Full Stack Web Application Developer and Content Creator on <a hre
 </p>
 
 ♥️  I enjoy learning and sharing knowledge
+
 💻  Most used line of code console.log("hello world")
+
 🤔  I’m looking for people who can help me with Outstanding Video ideas and executions.
+
 📧  How to reach me: nazmuldiu8@gmail.com.
 
 <!--
