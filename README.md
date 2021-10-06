@@ -3,6 +3,19 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
 
 <h3>☕ Connect with me!</h3>
 <p>
+    <a href="https://www.facebook.com/profile.php?id=100006948045273" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+  </a>
+ <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+  </a>
+   <a href="mailto:nazmuldiu8@gmail.com" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+  </a>
+   <a href="javascript:void(0)">
+    <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+  </a>
+  
   <a href="https://www.facebook.com/profile.php?id=100006948045273" rel="nofollow"><img src="https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="Facebook Badge" data-canonical-src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
   </a>
   <a href="https://www.youtube.com/c/WebJourneybd" rel="nofollow"><img src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" alt="Youtube Badge" data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" style="max-width: 100%;">
@@ -44,7 +57,7 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
     <img src ="https://img.shields.io/static/v1?message=Jquery&logo=jquery&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="28" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Ajax&logo=a&labelColor=5c5c5c&color=0e6251&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Ajax&logo=json&labelColor=5c5c5c&color=0e6251&logoColor=white&label=%20" height="28" style="max-width: 100%;">
   </a>
    <a href="#">
     <img src ="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=5f6a6a&logoColor=white&label=%20" height="28" style="max-width: 100%;">
