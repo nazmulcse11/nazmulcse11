@@ -78,22 +78,22 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
 <table>
   <thead align="center">
     <tr>
-      <td><b>Projects</b></td>
+      <td><b>Project Title</b></td>
       <td><b>Description</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://ecommerce-bd.xyz" rel="nofollow">Ecommerce Website</a></td>
-      <td>Online Ecommerce Platform</td>
+      <td>Online Shop System and Management</td>
     </tr>
     <tr>
       <td><a href="https://web-journey/inventory" rel="nofollow">Inventory Web Application</a></td>
-      <td>Create Orders and Control Products</td>
+      <td>Inventory Management</td>
     </tr>
     <tr>
       <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
-      <td>Crypto Currency</td>
+      <td>Crypto Currency Details</td>
     </tr>
   </tbody>
 </table>
