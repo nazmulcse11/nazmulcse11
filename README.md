@@ -58,7 +58,7 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
   </a>
 </p>
 
-<h3>🐛 My Tutorial and Course</h3>
+<h3>🐛 Tutorial and Course</h3>
 <p> 
   <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=008000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
