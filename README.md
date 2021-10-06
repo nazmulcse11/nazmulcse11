@@ -32,16 +32,25 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
     <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="27" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=VueJS&logo=vuejs&labelColor=5c5c5c&color=FFBF00&logoColor=white&label=%20" height="30" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=VueJS&logo=vuejs&labelColor=5c5c5c&color=FFBF00&logoColor=white&label=%20" height="27" style="max-width: 100%;">
   </a>
   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="30" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="27" style="max-width: 100%;">
   </a>
   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="30" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="27" style="max-width: 100%;">
   </a>
   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="30" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Jquery&logo=jquery&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="27" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=HTML&logo=html&labelColor=5c5c5c&color=5f6a6a&logoColor=white&label=%20" height="27" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=CSS3&logo=css&labelColor=5c5c5c&color=e67e22&logoColor=white&label=%20" height="27" style="max-width: 100%;">
+  </a>
+   <a href="#">
+    <img src ="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=b2babb&logoColor=white&label=%20" height="27" style="max-width: 100%;">
   </a>
 </p>
 
