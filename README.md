@@ -88,12 +88,16 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
       <td>Online Shop and Management System</td>
     </tr>
     <tr>
-      <td><a href="https://web-journey/inventory" rel="nofollow">Inventory Web App</a></td>
+      <td><a href="https://web-journey.xyz/inventory" rel="nofollow">Inventory Web App</a></td>
       <td>Inventory Management System</td>
     </tr>
     <tr>
       <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
       <td>Crypto Currency Details</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.habsecurities.com" rel="nofollow">HABSL</a></td>
+      <td>One of the Best Brokerage Company in Bangladesh</td>
     </tr>
   </tbody>
 </table>
