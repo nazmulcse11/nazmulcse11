@@ -104,7 +104,7 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
       <td>Call Center Software Company</td>
     </tr>  
     <tr>
-      <td><a href="#">CRM and Dialer Software</a></td>
+      <td>CRM and Dialer Software</td>
       <td>Clients: IFIC Bank, BITI, Metlife Alico, Labaid, TCG, Pathao, Obhai, Biid, Shob Hobe, ShopUP etc</td>
     </tr>    
   </tbody>
