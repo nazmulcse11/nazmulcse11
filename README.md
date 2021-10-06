@@ -4,16 +4,16 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
 <h3>☕ Connect with me!</h3>
 <p>
     <a href="https://www.facebook.com/profile.php?id=100006948045273" target="_blank">
-    <img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Facebook&logo=facebook&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
  <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
-    <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Youtube&logo=youtube&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="mailto:nazmuldiu8@gmail.com" target="_blank">
-    <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Gmail&logo=gmail&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="javascript:void(0)">
-    <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
 </p>
 
@@ -31,38 +31,38 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
 <h3>⚡ Technology I code with</h3>
 <p align="left">
   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Vue Js&logo=vuedotjs&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Vue Js&logo=vuedotjs&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=MySql&logo=laravel&labelColor=5c5c5c&color=4d7902&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=JavaScript&logo=javascript&labelColor=5c5c5c&color=52307c&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
   <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Jquery&logo=jquery&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Jquery&logo=jquery&labelColor=5c5c5c&color=b9770e&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Ajax&logo=json&labelColor=5c5c5c&color=0e6251&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Ajax&logo=json&labelColor=5c5c5c&color=0e6251&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=5f6a6a&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=HTML&logo=html5&labelColor=5c5c5c&color=5f6a6a&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=e67e22&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=CSS3&logo=css3&labelColor=5c5c5c&color=e67e22&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
    <a href="#">
-    <img src ="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=5D6D7E&logoColor=white&label=%20" height="28" style="max-width: 100%;">
+    <img src ="https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&labelColor=5c5c5c&color=5D6D7E&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
 </p>
 
-<h3>⚡ My Tutorials</h3>
+<h3>🐛 My Tutorials</h3>
 <p align="left"> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
