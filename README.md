@@ -85,11 +85,11 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
   <tbody>
     <tr>
       <td><a href="https://ecommerce-bd.xyz" rel="nofollow">Ecommerce Website</a></td>
-      <td>Online Shop System and Management</td>
+      <td>Online Shop and Management System</td>
     </tr>
     <tr>
-      <td><a href="https://web-journey/inventory" rel="nofollow">Inventory Web Application</a></td>
-      <td>Inventory Management</td>
+      <td><a href="https://web-journey/inventory" rel="nofollow">Inventory Web App</a></td>
+      <td>Inventory Management System</td>
     </tr>
     <tr>
       <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
