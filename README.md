@@ -84,7 +84,7 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://ecommerce-bd.xyz" rel="nofollow">Ecommerce Website</a></td>
+      <td><a href="https://ecommerce-bd.xyz" rel="nofollow">Ecommerce Web App</a></td>
       <td>Online Shop and Management System</td>
     </tr>
     <tr>
