@@ -106,6 +106,10 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
     <tr>
       <td>CRM and Dialer Software</td>
       <td>Clients: IFIC Bank, BITI, Metlife Alico, Labaid, TCG, Pathao, Obhai, Biid, Shob Hobe, ShopUP etc</td>
+    </tr> 
+    <tr>
+      <td>Sales & Distribution Management</td>
+      <td>keep tracking of sales information, inventory information, accounting information, purchase information, vendor payment, employ salary, customer information, barcode and credit card scanner, tracking the invoice & ledger</td>
     </tr>    
   </tbody>
 </table>
