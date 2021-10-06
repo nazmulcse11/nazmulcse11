@@ -24,9 +24,6 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
     <span>🔭  I’m currently working on PHP Laravel.</span> <br>
 </p>
 
-
-
-
 <h3>⚡ Technology I code with</h3>
 <p align="left">
   <a href="#">
@@ -62,22 +59,16 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
 </p>
 
 <h3>🐛 My Tutorials</h3>
-<p align="left"> 
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
-  </a> 
-  <a href="https://laravel.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/> 
+<p> 
+  <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=PHP&logo=php&labelColor=5c5c5c&color=008000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> 
+   <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Laravel&logo=laravel&labelColor=5c5c5c&color=FF0000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30"/>
-  </a> 
+   <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
+    <img src ="https://img.shields.io/static/v1?message=Vue Js&logo=vuedotjs&labelColor=5c5c5c&color=808000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
+  </a>
 </p>
 
 <h3>🔭 My Projects</h3>
