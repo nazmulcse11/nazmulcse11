@@ -109,7 +109,7 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
     </tr> 
     <tr>
       <td>Sales & Distribution Management</td>
-      <td>keep tracking of sales information, inventory information, accounting information, purchase information, vendor payment, employ salary, customer information, barcode and credit card scanner, tracking the invoice & ledger</td>
+      <td>Keep tracking of sales information, inventory information, accounting information, purchase information, vendor payment, employ salary, customer information, barcode and credit card scanner, tracking the invoice & ledger</td>
     </tr>    
   </tbody>
 </table>
