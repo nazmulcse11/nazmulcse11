@@ -16,16 +16,15 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
     <img src ="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&labelColor=5c5c5c&color=D4AC0D&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
 </p>
+<p>
+    <span>♥️ I enjoy learning and sharing knowledge.</span> <br>
+    <span>💻 Most used line of code console.log("hello world").</span> <br>
+    <span>🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.</span> <br>
+    <span>📧 How to reach me: nazmuldiu8@gmail.com.</span> <br>
+    <span>🔭  I’m currently working on PHP Laravel.</span> <br>
+</p>
 
-♥️ I enjoy learning and sharing knowledge
 
-💻 Most used line of code console.log("hello world")
-
-🤔 I’m looking for people who can help me with Outstanding Video ideas and executions.
-
-📧 How to reach me: nazmuldiu8@gmail.com.
-
-🔭  I’m currently working on PHP Laravel.
 
 
 <h3>⚡ Technology I code with</h3>
