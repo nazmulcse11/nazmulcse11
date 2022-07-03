@@ -84,7 +84,7 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
   </thead>
   <tbody>
   <tr>
-      <td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Qixer</a></td>
+      <td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Qixer (Envato<strong>Market</strong>)</a></td>
       <td>Multi-Vendor On demand Service Marketplace and Service Finder</td>
     </tr>
     <tr>
