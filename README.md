@@ -1,6 +1,8 @@
 <h3>Hi there 👋</h3>
 I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href="https://www.youtube.com/c/WebJourneybd">Youtube</a>. I spend most of the time coding client projects or creating tutorials.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulcse11&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulcse11" /> </p>
+
 <h3>☕ Connect with me!</h3>
 <p>
     <a href="https://www.facebook.com/profile.php?id=100006948045273" target="_blank">
