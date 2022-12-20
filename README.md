@@ -71,7 +71,7 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
    <a href="https://www.youtube.com/c/WebJourneybd" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=Vue Js&logo=vuedotjs&labelColor=5c5c5c&color=808000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
-     <a href="https://web-journey.xyz" target="_blank">
+     <a href="https://webjourney.dev" target="_blank">
     <img src ="https://img.shields.io/static/v1?message=My Course&logo=laravel&labelColor=5c5c5c&color=000000&logoColor=white&label=%20" height="25" style="max-width: 100%;">
   </a>
 </p>
