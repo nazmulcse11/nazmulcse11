@@ -102,8 +102,8 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
       <td>Online Shop and Management System</td>
     </tr>
     <tr>
-      <td><a href="https://web-journey.xyz/inventory" rel="nofollow">Inventory Web App</a></td>
-      <td>Inventory Management System</td>
+      <td><a href="https://doorstephub.com" rel="nofollow">DoorStep</a></td>
+      <td>Service marketplace</td>
     </tr>
     <tr>
       <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
