@@ -87,10 +87,10 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
   <tbody>
       
        <tr>
-      <td><a href="https://codecanyon.net/item/xilancer-freelancer-marketplace-platform-with-services-projects/49358326?srsltid=AfmBOopM2MmB7iYyVXxd3Uqy6yOwq1LFTj5DHt07PL2-cFV796ZHCkq0" rel="nofollow">Xilancer (Envato<strong>Market</strong>)</a></td>
-      <td>Xilancer – Freelancer Marketplace Platform with Services & Projects</td>
-    </tr>
-  <tr>
+          <td><a href="https://codecanyon.net/item/xilancer-freelancer-marketplace-platform-with-services-projects/49358326?srsltid=AfmBOopM2MmB7iYyVXxd3Uqy6yOwq1LFTj5DHt07PL2-cFV796ZHCkq0" rel="nofollow">Xilancer     (Envato<strong>Market</strong>)</a></td>
+          <td>Xilancer – Freelancer Marketplace Platform with Services & Projects</td>
+      </tr>
+      <tr>
       <td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Qixer (Envato<strong>Market</strong>)</a></td>
       <td>Multi-Vendor On demand Service Marketplace and Service Finder</td>
     </tr>
