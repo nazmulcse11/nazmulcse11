@@ -77,18 +77,56 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
 </p>
 
 <h3>🔭 My Projects</h3>
-| Project Title | Description |
-|---------------|-------------|
-| [Xilancer (Envato Market)](https://codecanyon.net/item/xilancer-freelancer-marketplace-platform-with-services-projects/49358326?srsltid=AfmBOopM2MmB7iYyVXxd3Uqy6yOwq1LFTj5DHt07PL2-cFV796ZHCkq0) | Freelancer Marketplace Platform with Services & Projects |
-| [Qixer (Envato Market)](https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708) | Multi-Vendor On demand Service Marketplace and Service Finder |
-| [Qixer App (Envato Market)](https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708) | Multi-Vendor On demand Service Marketplace and Service Finder (API Development For App) |
-| [Ecommerce Web App](https://ecommerce-bd.xyz) | Online Shop and Management System |
-| [Inventory Web App](https://web-journey.xyz/inventory) | Inventory Management System |
-| [CryptoPostal](https://cryptopostal.com/en) | Crypto Currency Details |
-| [HABSL](http://www.habsecurities.com) | One of the Best Brokerage Company in Bangladesh |
-| [iHelpBD](http://ihelpbd.com) | Call Center Software Company |
-| CRM and Dialer Software | Clients: IFIC Bank, BITI, Metlife Alico, Labaid, TCG, Pathao, Obhai, Biid, Shob Hobe, ShopUP etc |
-| Sales & Distribution Management | Keep tracking of sales information, inventory information, accounting information, purchase information, vendor payment, employee salary, customer information, barcode and credit card scanner, tracking the invoice & ledger |
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>Project Title</b></td>
+      <td><b>Description</b></td>
+    </tr>
+  </thead>
+  <tbody>
+       <tr>
+         <td><a href="https://codecanyon.net/item/xilancer-freelancer-marketplace-platform-with-services-projects/49358326?srsltid=AfmBOopM2MmB7iYyVXxd3Uqy6yOwq1LFTj5DHt07PL2-cFV796ZHCkq0" rel="nofollow">Xilancer (Envato<strong>Market</strong>)</a></td>
+         <td>Xilancer – Freelancer Marketplace Platform with Services & Projects</td>
+      </tr>
+      <tr>
+       <td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Qixer (Envato<strong>Market</strong>)</a></td>
+        <td>Multi-Vendor On demand Service Marketplace and Service Finder</td>
+    </tr>
+    <tr>
+      <td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Qixer App (Envato<strong>Market</strong>)</a></td>
+      <td>Multi-Vendor On demand Service Marketplace and Service Finder (API Development For App)</td>
+    </tr>
+    <tr>
+      <td><a href="https://ecommerce-bd.xyz" rel="nofollow">Ecommerce Web App</a></td>
+      <td>Online Shop and Management System</td>
+    </tr>
+    <tr>
+      <td><a href="https://web-journey.xyz/inventory" rel="nofollow">Inventory Web App</a></td>
+      <td>Inventory Management System</td>
+    </tr>
+    <tr>
+      <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
+      <td>Crypto Currency Details</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.habsecurities.com" rel="nofollow">HABSL</a></td>
+      <td>One of the Best Brokerage Company in Bangladesh</td>
+    </tr>
+     <tr>
+      <td><a href="http://ihelpbd.com" rel="nofollow">iHelpBD</a></td>
+      <td>Call Center Software Company</td>
+    </tr>  
+    <tr>
+      <td>CRM and Dialer Software</td>
+      <td>Clients: IFIC Bank, BITI, Metlife Alico, Labaid, TCG, Pathao, Obhai, Biid, Shob Hobe, ShopUP etc</td>
+    </tr> 
+    <tr>
+      <td>Sales & Distribution Management</td>
+      <td>Keep tracking of sales information, inventory information, accounting information, purchase information, vendor payment, employ salary, customer information, barcode and credit card scanner, tracking the invoice & ledger</td>
+    </tr>    
+  </tbody>
+</table>
 
 
 <!--
