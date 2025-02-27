@@ -93,6 +93,11 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
          <td><a href="https://codecanyon.net/item/freelancer-flutter-mobile-app-xilancer-freelancer-marketplace-platform/49913337?s_rank=13" rel="nofollow">Xilancer Freelancer App API Development (Envato<strong>Market</strong>)</a></td>
          <td>Freelancer Flutter Mobile App - Xilancer Freelancer Marketplace Platform</td>
       </tr>
+       <tr>
+         <td><a href="https://codecanyon.net/item/client-flutter-mobile-app-xilancer-freelancer-marketplace-platform/51899615?s_rank=9" rel="nofollow">Xilancer Client App API Development (Envato<strong>Market</strong>)</a></td>
+         <td>Client Flutter Mobile App - Xilancer Freelancer Marketplace Platform</td>
+      </tr>
+      
       <tr>
        <td><a href="https://codecanyon.net/item/qixer-multivendor-on-demand-service-marketplace-and-service-finder/36475708" rel="nofollow">Qixer (Envato<strong>Market</strong>)</a></td>
         <td>Multi-Vendor On demand Service Marketplace and Service Finder</td>
