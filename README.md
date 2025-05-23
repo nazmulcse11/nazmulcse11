@@ -119,7 +119,7 @@ I'm Nazmul, Full Stack Web Application Developer and Content Creator on <a href=
     </tr>
     <tr>
       <td><a href="https://cryptopostal.com/en" rel="nofollow">CryptoPostal</a></td>
-      <td>Crypto Currency Details</td>
+      <td>Best Source for Crypto News Cryptopostal Is All Crypto Info</td>
     </tr>
     <tr>
       <td><a href="http://www.habsecurities.com" rel="nofollow">HABSL</a></td>
